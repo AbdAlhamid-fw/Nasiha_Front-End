@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e112707.css",
+    "main.js": "/static/js/main.2dc177c8.js",
+    "static/js/787.7e799141.chunk.js": "/static/js/787.7e799141.chunk.js",
+    "static/media/sell_house.jpg": "/static/media/sell_house.b2e777bb74ff4b94c4d5.jpg",
+    "static/media/house.png": "/static/media/house.9bad512ec6737a24e0d2.png",
+    "static/media/footer.jpg": "/static/media/footer.81f32d3154da337ba9a7.jpg",
+    "static/media/Landing.webp": "/static/media/Landing.fd56449b560930bde90b.webp",
+    "static/media/new-house.jpg": "/static/media/new-house.ea63bd53ca3fd138508a.jpg",
+    "static/media/About.webp": "/static/media/About.427a07a21d52e6d0813a.webp",
+    "static/media/a.png": "/static/media/a.a495a324828ae17a755b.png",
+    "index.html": "/index.html",
+    "main.8e112707.css.map": "/static/css/main.8e112707.css.map",
+    "main.2dc177c8.js.map": "/static/js/main.2dc177c8.js.map",
+    "787.7e799141.chunk.js.map": "/static/js/787.7e799141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e112707.css",
+    "static/js/main.2dc177c8.js"
+  ]
+}
