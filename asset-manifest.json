@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e112707.css",
+    "main.css": "/static/css/main.9917a814.css",
     "main.js": "/static/js/main.2dc177c8.js",
     "static/js/787.7e799141.chunk.js": "/static/js/787.7e799141.chunk.js",
     "static/media/sell_house.jpg": "/static/media/sell_house.b2e777bb74ff4b94c4d5.jpg",
@@ -11,12 +11,12 @@
     "static/media/About.webp": "/static/media/About.427a07a21d52e6d0813a.webp",
     "static/media/a.png": "/static/media/a.a495a324828ae17a755b.png",
     "index.html": "/index.html",
-    "main.8e112707.css.map": "/static/css/main.8e112707.css.map",
+    "main.9917a814.css.map": "/static/css/main.9917a814.css.map",
     "main.2dc177c8.js.map": "/static/js/main.2dc177c8.js.map",
     "787.7e799141.chunk.js.map": "/static/js/787.7e799141.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e112707.css",
+    "static/css/main.9917a814.css",
     "static/js/main.2dc177c8.js"
   ]
 }
